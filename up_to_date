@@ -1,13 +1,1 @@
-git add .
-
-git commit -m "Your message"
-
-git push
-
-git pull
-
-git checkout -b  branch_name
-
-git branch
-
-git chekout name_branch_you_want_to_chonge
+touch up_to_date
